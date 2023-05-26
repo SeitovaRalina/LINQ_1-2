@@ -21,7 +21,6 @@ namespace LINQ_1
     {
         static void Main(string[] args)
         {
-            //int[] nums = { 1, -2, 3, 4, -4, 5 };
             List<int> nums = new List<int>();
             string a = "";
             while (a != ".")
